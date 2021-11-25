@@ -1,1 +1,1 @@
-web: python ps5-tracker.py
+web: python3 ps5-tracker.py
